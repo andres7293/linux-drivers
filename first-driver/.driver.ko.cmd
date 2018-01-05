@@ -1,0 +1,1 @@
+cmd_/home/andres7293/Documentos/linux-drivers/first-driver/driver.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/andres7293/Documentos/linux-drivers/first-driver/driver.ko /home/andres7293/Documentos/linux-drivers/first-driver/driver.o /home/andres7293/Documentos/linux-drivers/first-driver/driver.mod.o ;  true
